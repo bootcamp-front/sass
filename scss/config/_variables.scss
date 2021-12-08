@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+$font: 'Roboto', sans-serif;
+
+$blue: #113CFC;
+$green: #34BE82;
+$red: #CD1818;
+$gray: #F7F7F7;
+$yellow: #FFCC1D;
+$dark: #191A19;
+$orange: #FF4301;
+$black: #000;
+$white: #fff;
+
+$primary: $blue !default;
+
+$radius-sm: 4px;
+$radius-md: 10px;
+$radius-lg: 50px;
+
+$text-aligns: left, right, center, justify;
+
+$buttons: "info" $blue,"success" $green, "warning" $yellow, "danger" $red;
+$backgrounds: "gray" $gray, "dark" $dark, "primary" $primary, "white" $white;
+

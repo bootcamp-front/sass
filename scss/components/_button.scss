@@ -1,0 +1,26 @@
+@each $name, $value in $buttons {
+    .btn-#{$name}{
+        outline: none;
+        display: inline-block;
+        background: $value;
+        font: {
+            family: $font;
+            size: 16px;
+            weight: 600;
+        }
+        text-align: center;
+        text-decoration: none;
+        border: 2px solid lighten($value,5%);
+        color: $white;
+        padding: 15px 30px;
+        border-radius: $radius-sm;
+        @if ($name == "warning"){
+            color: $black;
+        }
+        &:hover{
+            background: darken($value,10%);
+            border: 2px solid darken($value,30%);
+        }
+
+    }
+}
