@@ -7,3 +7,5 @@ Prácticas de Sass
 [Taller de Sass](https://www.youtube.com/watch?v=mHp2nr2kErs&t=14s)
 
 [WSL Fazt Code](https://www.youtube.com/watch?v=gm-Kym2iqss&t=152s)
+
+[WSL 2](https://www.youtube.com/watch?v=-jTNQSlkw2Y)
