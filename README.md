@@ -1,12 +1,24 @@
 # sass
 Prácticas de Sass
 
-[Curos de Sass](https://www.youtube.com/watch?v=kNQbBiU22BA&list=PLy7TtEmBFusKPlehbCaSyIl8OA2lf4Krh)
+[Documentación Sass](https://sass-lang.com/)
 
-[Crea tu propio sistema de columnas](https://www.youtube.com/watch?v=e6wAHRf3H8Y)
+## Modulo 1
+- Que es Sass
+- Como Instalar
+- Sintaxis
+- Formatos
 
-[Taller de Sass](https://www.youtube.com/watch?v=mHp2nr2kErs&t=14s)
+## Modulo 2 Estructura de una hoja de estilo
+- Coemntarios
+- Estructura de una hoja de estilo
+- Declaraciones
+- Declaraciones CSS
+- Declaraciones de alto nivel
+- Otras Declaraciones
 
-[WSL Fazt Code](https://www.youtube.com/watch?v=gm-Kym2iqss&t=152s)
-
-[WSL 2](https://www.youtube.com/watch?v=-jTNQSlkw2Y)
+## Modulo 3 Estructura de una hoja de estilo
+- Expresiones
+- Literales
+- Operaciones
+- Otras expresiones
