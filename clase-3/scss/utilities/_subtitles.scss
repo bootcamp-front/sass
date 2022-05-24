@@ -1,0 +1,8 @@
+@each $name, $fz, $lh, $fw in $subtitles{
+    .subtitle-#{$name}{
+        font-size: $fz;
+        line-height: $lh;
+        font-weight: $fw;
+    }
+
+}

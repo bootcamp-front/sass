@@ -10,8 +10,10 @@ Prácticas de Sass
 - Formatos
 
 ## Modulo 2 Estructura de una hoja de estilo
-- Coemntarios
+- Comentarios
 - Estructura de una hoja de estilo
+- Interpolaciones
+- Nesting
 - Declaraciones
 - Declaraciones CSS
 - Declaraciones de alto nivel
